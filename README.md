@@ -1,6 +1,6 @@
 # MatrixSolver
 
-This Python package is capable of traversing a a matrix in multiple different ways.
+This Python package is capable of traversing a matrix in multiple different ways.
 Currently there are two traversals implemented:
 - Spiral
 - Horizontal
